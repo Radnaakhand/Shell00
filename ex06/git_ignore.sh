@@ -1,2 +1,1 @@
-.DS_Store$
-mywork.c~$
+git ls-files --exclude-standard --ignored --other
